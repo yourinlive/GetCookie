@@ -1,1 +1,1 @@
-# GetCookie
+# GetCookie Extension
